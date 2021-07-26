@@ -9,6 +9,7 @@ pipeline
       steps
       {
         echo 'building the application...'
+        echo 'application build...'
       }
     }
     
